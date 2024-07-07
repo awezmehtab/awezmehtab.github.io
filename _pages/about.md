@@ -21,4 +21,5 @@ social: true # includes social icons at the bottom of the page
 Hi, I'm Awez, a computer science B.Tech student at IIT Bombay. I've to get more stuff to add here :)
 
 Currently, I'm interested in Mathematics & Computer Science. I enjoy physics too.
-Apart from academics, I've done standup comedy at insti.
+Apart from academics, I've done standup comedy at insti. To mention a few things I've done or I'm doing now,
+I'm currently doing Summer of Science project, in the topic of Quantum Computing & Information. You can find my work [here](https://github.com/awezmehtab/sos).
