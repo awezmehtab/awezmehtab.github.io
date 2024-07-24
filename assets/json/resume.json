@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Awez Mehtab",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "shaikarifa178@gmail.com",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://www.github.com/awezmehtab/awezmehtab.github.io",
+    "summary": "Just a student exploring the world of technology.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "H3",
+      "postalCode": "40076",
+      "city": "Mumbai",
+      "countryCode": "India",
+      "region": "Mumbai"
     },
     "profiles": [
       {
@@ -24,9 +24,9 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": "Indian Institute of Technology, Bombay",
       "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "url": "https://www.iitb.ac.in/",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
