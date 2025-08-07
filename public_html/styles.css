@@ -1,0 +1,73 @@
+@font-face {
+	font-family: EBGaramond;
+	src: url(fonts/static/EBGaramond-Regular.ttf);
+}
+
+body {
+	width: 25vw;
+	margin: auto;
+	background: #181818;
+	color: #EEE;
+	font-family: EBGaramond;
+	font-size: 20px;
+	line-height: 22px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+/* For small screens (like phones) */
+@media (max-width: 768px) {
+  body {
+    width: 75vw;
+  }
+}
+
+h1 {
+	font-size: 48px;
+	margin-bottom: 45px;
+}
+
+h2 {
+	font-size: 32px;
+	margin-bottom: 40px;
+}
+
+h3 {
+	font-size: 24px;
+	margin-bottom: 35px;
+}
+
+p {
+	margin-bottom: 35px;
+}
+
+ul {
+	margin-bottom: 35px;
+	list-style-type: disc;
+}
+
+li {
+	margin-bottom: 4px;
+}
+
+a:link, a:visited, a:active {
+	color: inherit;
+	text-decoration: underline;
+	text-decoration-color: #73c936;
+	text-underline-offset: 2px;
+}
+
+a:hover {
+	color: inherit;
+	text-decoration: underline;
+	text-decoration-color: #EEE;
+	text-underline-offset: 2px;
+}
+
+h1 a:link {
+	text-decoration-thickness: 4px;
+}
+
+h2 a:link {
+	text-decoration-thickness: 3px;
+}
